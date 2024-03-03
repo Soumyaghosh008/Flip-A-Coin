@@ -1,4 +1,4 @@
-# Flip-A-Coin
+# Coin-Flip
 This a fun project based on Google's flip a coin function.
 <br>
 Writter: Soumyadeep Ghosh
